@@ -1,0 +1,5 @@
+Credentials cache: API:DAD5828C-8FE4-4888-982C-F73D6F53B146
+        Principal: isan-fel@42MADRID.COM
+
+  Issued                Expires               Principal
+Feb 24 11:08:32 2021  Feb 24 21:08:32 2021  krbtgt/42MADRID.COM@42MADRID.COM
